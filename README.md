@@ -6,8 +6,9 @@ Steps to follow:
 
 1. Install docker for Windows: https://docs.docker.com/docker-for-windows/install/
 2. Clone/download  the repoistory on your local system
-3. Docker-compose up -d (to run it on detach mode)
-4. Check the output on localhost (http://localhost:5000/)
+3. Start docker in local
+4. Docker-compose up -d (to run it on detach mode) 
+5. Check the output on localhost (http://localhost:5000/)
 
 
 
